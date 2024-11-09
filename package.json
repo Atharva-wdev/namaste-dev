@@ -1,0 +1,21 @@
+{
+  "name": "nameste-react",
+  "version": "1.0.0",
+  "description": "This is a react application learning ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "namaste-dev"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Atharva satunkar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
